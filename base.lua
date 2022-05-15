@@ -1,0 +1,3 @@
+local Neowave = {}
+
+return Neowave
